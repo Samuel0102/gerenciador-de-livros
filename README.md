@@ -6,9 +6,9 @@
 
 ## Tecnologias
 *Linguagem utilizada*: Python 3.8.  
-*Bibliotecas utilizadas*: OS. 
-*IDE*: Visual Studio Code
-*Estrutura*: Orientação a objeto
+*Bibliotecas utilizadas*: OS, Random. 
+*IDE*: Visual Studio Code.    
+*Estruturação*: Orientação a objeto.
 
 ## Funcionalidades
 * Armazenamento de informações em arquivo de texto(simbolizando um livro).
