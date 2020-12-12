@@ -1,7 +1,7 @@
 # Sobre o projeto
 
 ## Especificações
-*Autor*: Samuel Pacheco Ferreira.    
+*Autores*: Samuel Pacheco Ferreira, Thaís Letícia Junkes e Maria Erbs Pereira.    
 *Descrição*: Sistema para gerenciar cadastro, consulta e exclusão de dados de livros. 
 
 ## Tecnologias
